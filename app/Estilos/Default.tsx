@@ -19,6 +19,8 @@ const estilo = StyleSheet.create({
       justifyContent: 'center',
       alignItems: 'center',
       padding: 20,
+      marginVertical: 20,
+      marginHorizontal: 30,
     },
     cardText: {
       fontSize: 18,

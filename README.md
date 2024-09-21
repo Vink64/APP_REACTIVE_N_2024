@@ -1,9 +1,9 @@
 # Participantes
-1. Anthony Alencar Wollena - 09/08 - 30/08 - 06/09
+1. Anthony Alencar Wollena - 09/08 - 30/08 - 06/09 - 13/09
 
 2. Giovanna Aparecida Villanova - 23/8 - ```[Redigido]```
 
-3. Victor Myke Gracioli Rocha - 09/08 - 16/8 - 23/08 - 30/08 - 06/09
+3. Victor Myke Gracioli Rocha - 09/08 - 16/8 - 23/08 - 30/08 - 06/09 - 20/09
 
 # Welcome to your Expo app 👋
 
